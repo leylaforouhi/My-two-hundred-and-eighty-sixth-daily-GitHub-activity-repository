@@ -1,4 +1,4 @@
-def get_factors(number):
+def get_factors(numbe):
     if number <= 0:
         return []
 
